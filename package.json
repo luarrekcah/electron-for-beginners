@@ -1,0 +1,12 @@
+{
+  "name": "electron-for-beginners",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^22.0.3"
+  }
+}
